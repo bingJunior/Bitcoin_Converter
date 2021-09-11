@@ -36,7 +36,7 @@ This is a Naira to Bitcoin Converter App as Activity 6 for KodeCamp Internship
 ### Testing
 I've provided the built apk for testing it just download and install it in your smartphone.
 
- * [Activity 5 APK](https://github.com/bingJunior/Bitcoin_Converter/tree/master/apk)
+ * [Activity 6 APK](https://github.com/bingJunior/Bitcoin_Converter/tree/master/apk)
 
 ### Video
 
