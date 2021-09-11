@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bitcoin Converter</string>
+        <string name="converted_amount">Converted Amount</string>
+        <string name="how_was_the_service">How was the service?</string>
+        <string name="amazing_20">Amazing (20%)</string>
+        <string name="good_18">Good (18%)</string>
+        <string name="okay_15">Okay (15%)</string>
+        <string name="round_up_tip">Round up tip?</string>
+        <string name="convert">Convert</string>
+        <string name="tip_amount">Tip Amount: %s</string>
+        <string name="primary_color">Primary color</string>
+        <string name="button">Button</string>
+        <string name="secondary_color">Secondary color</string>
+        <string name="email_icon">email icon</string>
+</resources>
